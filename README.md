@@ -3,7 +3,7 @@ and for Stanza from: https://huggingface.co/stanfordnlp/stanza-de
 
 Folder needs to look like this:
 
-C:\Users\u3atmz\Documents\stanza_resources\
+~\stanza_resources\
 └── de\
     ├── tokenizer\
     ├── pos\
