@@ -1,4 +1,14 @@
-Download NER Model from: https://huggingface.co/fhswf/bert_de_ner
-and from 
+Download NER Model for BERT: https://huggingface.co/fhswf/bert_de_ner
+and for Stanza from: https://huggingface.co/stanfordnlp/stanza-de
 
-Den Pfad im Code zu den Modellen anpassen!
+Folder needs to look like this:
+
+C:\Users\u3atmz\Documents\stanza_resources\
+└── de\
+    ├── tokenizer\
+    ├── pos\
+    ├── ner\
+    └── etc.
+└── resources.json
+
+Don't forget to adapt the path to the models in Code!
