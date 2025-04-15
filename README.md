@@ -6,10 +6,10 @@ Folder needs to look like this:
 ~\stanza_resources\
 └── de\
    
-  ├── tokenizer\
-  ├── pos\
-  ├── ner\
-  └── etc.
+    ├── tokenizer\
+    ├── pos\
+    ├── ner\
+    └── etc.
 
 └── resources.json
 
