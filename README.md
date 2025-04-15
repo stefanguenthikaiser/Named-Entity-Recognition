@@ -5,10 +5,15 @@ Folder needs to look like this:
 
 ~\stanza_resources\
 └── de\
-    ├── tokenizer\
-    ├── pos\
-    ├── ner\
-    └── etc.
+   
+   ├── tokenizer\
+   
+   ├── pos\
+   
+   ├── ner\
+   
+   └── etc.
+
 └── resources.json
 
 Don't forget to adapt the path to the models in Code!
