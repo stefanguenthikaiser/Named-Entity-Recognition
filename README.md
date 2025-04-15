@@ -9,6 +9,7 @@ Folder needs to look like this:
     ├── pos\
     ├── ner\
     └── etc.
+    
 └── resources.json
 
 Don't forget to adapt the path to the models in Code!
